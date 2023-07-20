@@ -1,0 +1,126 @@
+Installing DataKund  PIP         -2023-06-15 09:14:16
+
+
+DataKundTypePip  PIP         -2023-06-15 09:14:16
+
+
+driverversion114  PIP         -2023-06-15 09:14:16
+
+
+Exception in adding extension:-Path to the extension doesn't exist  PIP         -2023-06-15 09:14:16
+
+
+Exception in adding right click extension:-Path to the extension doesn't exist  PIP         -2023-06-15 09:14:16
+
+
+Exception in adding Cookies blocker 1st extension:-Path to the extension doesn't exist  PIP         -2023-06-15 09:14:16
+
+
+Exception in adding Cookies blocker 2nd extension:-Path to the extension doesn't exist  PIP         -2023-06-15 09:14:16
+
+
+Exception in adding Profile path:-'profile_path'  PIP         -2023-06-15 09:14:16
+
+
+Exception in setting agent'user_agent'  PIP         -2023-06-15 09:14:16
+
+
+Exception in saving download folder'download_folder'  PIP         -2023-06-15 09:14:16
+
+
+Install required:-True  PIP         -2023-06-15 09:14:16
+
+
+downloadchrome function  PIP         -2023-06-15 09:14:16
+
+
+Version found from subprocess code114  PIP         -2023-06-15 09:14:17
+
+
+driverversion114  PIP         -2023-06-15 09:14:17
+
+
+Driver Version:-114  PIP         -2023-06-15 09:14:17
+
+
+Folder path  PIP         -2023-06-15 09:14:21
+
+
+Going to try new version  PIP         -2023-06-15 09:14:21
+
+
+Version found from subprocess code114  PIP         -2023-06-15 09:14:21
+
+
+Going to download new chrome version 114  PIP         -2023-06-15 09:14:21
+
+
+ChromeDriver114 downloadedd  PIP         -2023-06-15 09:14:47
+
+
+Chromedriver 114opened  PIP         -2023-06-15 09:14:52
+
+
+Driver opened after download  PIP         -2023-06-15 09:14:52
+
+
+Driver quited after testing in first time installation  PIP         -2023-06-15 09:14:54
+
+
+Driver opened  PIP         -2023-06-15 09:14:54
+
+
+StartChrome function finished  PIP         -2023-06-15 09:14:54
+
+
+Exception in setting global driver'developer'  PIP         -2023-06-15 09:14:54
+
+
+Saved version  PIP         -2023-06-15 09:14:54
+
+
+DataKundTypePip  PIP         -2023-06-15 09:14:54
+
+
+driverversion  PIP         -2023-06-15 09:14:54
+
+
+Exception in adding Profile path:-'profile_path'  PIP         -2023-06-15 09:14:54
+
+
+Exception in setting agent'user_agent'  PIP         -2023-06-15 09:14:54
+
+
+Exception in saving download folder'download_folder'  PIP         -2023-06-15 09:14:54
+
+
+Install required:-False  PIP         -2023-06-15 09:14:54
+
+
+Opened with the already driver  PIP         -2023-06-15 09:14:56
+
+
+Driver opened  PIP         -2023-06-15 09:14:56
+
+
+StartChrome function finished  PIP         -2023-06-15 09:14:56
+
+
+Exception in setting global driver'developer'  PIP         -2023-06-15 09:14:56
+
+
+Tab already closed, Exception:-Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.133)
+,Bot:-youtube_video_comments~D75HsPTUIeOmN0bLp5ulrwB7F1f2, User:-172-16-34-203  PIP         -2023-06-15 09:15:06
+
+
+Driver already closed, Exception:-Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=114.0.5735.133)
+,Bot:-youtube_video_comments~D75HsPTUIeOmN0bLp5ulrwB7F1f2, User:-172-16-34-203  PIP         -2023-06-15 09:15:06
+
+
+Exception:- event done by bot youtube_video_comments~D75HsPTUIeOmN0bLp5ulrwB7F1f2 on url                    -172-16-34-203             -2023-06-15 09:15:06   PIP
+
+
